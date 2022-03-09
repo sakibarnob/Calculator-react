@@ -1,3 +1,7 @@
+# REACT CALCULATOR 
+
+- [Click here for LIVE Preview](https://calculator-arnob.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
